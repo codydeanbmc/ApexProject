@@ -5,9 +5,9 @@
 
 trigger:
 - main
-Break
+
 pool:
-  vmImage: ubuntu-latest
+  vmImage: ubuntu-latest8
 
 steps:
 - task: ArchiveFiles@2
